@@ -1,4 +1,4 @@
-👋 Halo, Saya Rama Ardiansyah
+Halo, Saya Rama Ardiansyah
 
 Lulusan SMK Teknik Komputer dan Jaringan (TKJ) yang memiliki minat besar pada bidang IT Support, Network Engineering, Warehouse, dan Food & Beverage. Saya senang mempelajari hal baru, mampu bekerja sama dalam tim, serta siap berkembang di lingkungan kerja yang profesional. 
 
