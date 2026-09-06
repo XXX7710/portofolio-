@@ -18,7 +18,7 @@ Current Position
 
 ---
 
-Network Technician Assistant — PT IST Inti Saran Teknologi
+Network Technician Assistant — PT IST Inti Sarana Teknologi
 
 Internship / PKL
 
