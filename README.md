@@ -1,44 +1,58 @@
-# Halo, Saya Rama Ardiansyah
+# Hi, I'm Rama Ardiansyah
 
-Lulusan SMK Teknik Komputer dan Jaringan (TKJ) yang memiliki minat besar pada bidang IT Support, Network Engineering, Warehouse, dan Food & Beverage. Saya senang mempelajari hal baru, mampu bekerja sama dalam tim, serta siap berkembang di lingkungan kerja yang profesional. 
+Work Experience
 
-Pengalaman
+Network Operations Center (NOC) / Technical Support — Dinetkan
 
-PKL – PT. IST.          
+Current Position
 
-Helper Teknisi
+- Monitor network connectivity and partner services.
+- Perform ping and basic network troubleshooting.
+- Support customers and partners with technical issues.
+- Handle customer and partner service activation.
+- Monitor billing status and payment due dates.
+- Reactivate suspended services after payment confirmation.
+- Check network coverage and support new customer registration.
+- Assist with MikroTik, VLAN, IP addressing, routing, and NAT configuration.
+- Coordinate technical and billing information with partners and customers.
 
-Selama praktik kerja lapangan, saya terlibat dalam:
+---
 
-- Membantu instalasi dan konfigurasi CCTV.
-- Membantu pemasangan Access Point dan PABX.
-- Membantu troubleshooting jaringan komputer.
-- Mengoptimalkan jaringan kantor menggunakan Mikrotik.
-- Menyiapkan dan mendistribusikan perangkat keamanan.
+Network Technician Assistant — PT IST Inti Saran Teknologi
 
-Keahlian
+Internship / PKL
 
-- Instalasi CCTV
-- Konfigurasi Access Point
-- Dasar Mikrotik
-- Troubleshooting Jaringan
-- Dasar TCP/IP
-- Microsoft Office
-- Komunikasi dan Kerja Tim
-- Cepat Belajar dan Mudah Beradaptasi
+- Assisted with fiber optic installation and maintenance.
+- Assisted with fiber optic splicing.
+- Performed LAN cable crimping and testing.
+- Assisted with Access Point installation and configuration.
+- Assisted with CCTV and PABX installation.
+- Supported technicians with on-site troubleshooting.
 
-Repository ini berisi:
+---
 
-- CV terbaru
-- Sertifikat
-- Dokumentasi proyek
-- Hasil pembelajaran dan pengembangan kemampuan
+Technical Skills
 
- Tujuan
+- MikroTik & Winbox
+- VLAN
+- IP Addressing & Subnetting
+- Basic Routing & NAT
+- Network Monitoring
+- Network Troubleshooting
+- Fiber Optic
+- LAN Networking
+- Technical Support
+- Service Activation & Billing
 
-Saat ini saya sedang mencari kesempatan kerja untuk terus mengembangkan kemampuan, memperoleh pengalaman baru, dan memberikan kontribusi terbaik bagi perusahaan.
+ 
 
- Kontak
+Career Goal
+
+My goal is to become a skilled Network Engineer and build a successful career in the IT and networking field.
+
+I believe that every step and experience is part of my journey. I will keep learning, improving my skills, and doing my best to achieve my goals..
+
+ Contacts 
 
 - Email: ramaardianssyah@gmail.com
 - GitHub: https://github.com/XXX7710
@@ -53,6 +67,6 @@ https://drive.google.com/file/d/1FAuTdkzTgYKMRwD2UK6eEdFLXsU12sg-/view?usp=drive
 
  **Lihat Video Portofolio Saya** https://drive.google.com/drive/folders/1Ld93lfJE3cpyTqyn_7r31jK7qFSHvFHS
 
- ### Sertifikat 
+ ### certificate 
  AXIOO-ACP #1 Hardware Fundamental
 https://drive.google.com/file/d/1rM_WnVvGjdJSQBylbZe8HSK08jF6pn7Q/view?usp=drivesdk
