@@ -65,7 +65,7 @@ https://drive.google.com/file/d/1FAuTdkzTgYKMRwD2UK6eEdFLXsU12sg-/view?usp=drive
  
 ### Video Portofolio
 
- **Lihat Video Portofolio Saya** https://drive.google.com/drive/folders/1Ld93lfJE3cpyTqyn_7r31jK7qFSHvFHS
+ **My picture And Video Portofolio** https://drive.google.com/drive/folders/1Ld93lfJE3cpyTqyn_7r31jK7qFSHvFHS
 
  ### certificate 
  AXIOO-ACP #1 Hardware Fundamental
