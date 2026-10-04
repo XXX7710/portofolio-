@@ -60,9 +60,8 @@ I believe that every step and experience is part of my journey. I will keep lear
   
 ### Curriculum Vitae (CV)
  Link CV (PDF)
-https://drive.google.com/file/d/1FAuTdkzTgYKMRwD2UK6eEdFLXsU12sg-/view?usp=drivesdk
+https://drive.google.com/drive/folders/15SbgspMa_UO7_guFmcIDGIE7FfBxndkf
 
- 
 ### Video Portofolio
 
  **My picture And Video Portofolio**   
